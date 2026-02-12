@@ -2,7 +2,7 @@
 
 A codebase for tracking and analyzing zebrafish interactions in health and disease.
 
-Deligkaris, K., Neiman, R., Hiroi, M., O'Shaughnessy, L., Carretero, L., Masai, I., & Stephens, G. (2025). A dataset of fine-grained zebrafish interactions in health and disease [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17190143
+Deligkaris, K., Neiman, R., Hiroi, M., O'Shaughnessy, L., Carretero, L., Masai, I., & Stephens, G. (2025). A dataset of fine-grained zebrafish interactions in health and disease [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17190142](https://doi.org/10.5281/zenodo.17190142)
 
 ## Overview
 
